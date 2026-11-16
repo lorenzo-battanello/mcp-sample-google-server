@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+data/
+**/data/tokens/
+*.token
+client_secret*.json
+credentials*.json
+*.pem
+*.key
+*.p12
+*.pfx
+bin/
+obj/
+*.user
+.DS_Store

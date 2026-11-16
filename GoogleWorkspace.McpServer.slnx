@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GoogleWorkspace.McpServer/GoogleWorkspace.McpServer.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GoogleWorkspace.McpServer.Tests/GoogleWorkspace.McpServer.Tests.csproj" />
+  </Folder>
+</Solution>
